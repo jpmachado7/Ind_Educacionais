@@ -1,5 +1,5 @@
 #  Indicadores Educacionais — Censo Escolar 2024
-fdsfsdfdsfsfsdsfdds
+
 Este repositório apresenta um projeto de construção de indicadores educacionais com base nos dados do **Censo Escolar 2024**, com foco no estado do **Rio de Janeiro**.
 
 ---
